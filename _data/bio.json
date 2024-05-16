@@ -1,118 +1,180 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "NRT Trainee",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am an NRT DESCARTS trainee studying for a MS in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
-    "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
-    ]
-  },
-  "interests": [
-    { "name": "Neuromorphic Analytics" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
-  ],
-  "skills": [
-    {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+    "name": "William London Thompson",
+    "label": "Dr. London Thompson",
+    "pronouns": "He/Him/His",
+    "email": "Lt535@dragons.drexel.edu",
+    "phone": "808.445.2963",
+    "website": "https://www.linkedin.com/in/blisstunes/",
+    "summary": "Experienced educator with a Doctor of Education in Educational Leadership and Management, specializing in Athletic Administration. Proficient in academic leadership, program development, and research. Committed to fostering inclusive learning environments and promoting equity and diversity.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "",
+      "countryCode": "",
+      "region": ""
     },
-    {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
-    }
-  ],
+    "profiles": []
+  },
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "M.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "institution": "Brown School of Professional Studies",
+      "area": "Applied DEI",
+      "studyType": "Certificate",
+      "startDate": "2024",
+      "endDate": "2025"
+    },
+    {
+      "institution": "Harvard Business School/Harvard Graduate School of Education",
+      "area": "School Management and Leadership",
+      "studyType": "Certificate",
+      "startDate": "2023",
+      "endDate": "2024"
+    },
+    {
+      "institution": "Drexel University",
+      "area": "Educational Leadership and Management, concentration Athletic Administration",
+      "studyType": "Doctor of Education",
+      "startDate": "2020",
+      "endDate": "2023"
+    },
+    {
+      "institution": "The University of Hawai'i at Manoa",
+      "area": "Education, Concentration - Educational Administration-Higher Education",
+      "studyType": "M.Ed.",
+      "startDate": "2017",
+      "endDate": "2019"
+    },
+    {
+      "institution": "The University of Hawai'i - West O'ahu",
+      "area": "Business Administration, Concentration - Marketing",
+      "studyType": "B.A.",
+      "startDate": "2014",
+      "endDate": "2016"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
+      "company": "Hampton University",
+      "position": "Adjunct Professor",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
-      "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
-      ]
+      "summary": "Department of Education, Doctor of Philosophy in Educational Management (PhD) program"
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
-      "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "company": "Purdue University Global",
+      "position": "Adjunct Faculty",
+      "startDate": "2023",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
+      "summary": "Education and Communication, College of Social and Behavioral Sciences"
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
-      ]
-    }
-  ],
-  "awards": [
-    {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
+      "company": "Punahou School",
+      "position": "Middle School Teacher and Coach",
+      "startDate": "2017",
+      "endDate": "Present"
     },
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "company": "KCAA Preschools",
+      "position": "Preschool Teacher",
+      "startDate": "2017",
+      "endDate": "2019"
+    },
+    {
+      "company": "Drexel University",
+      "position": "Education Researcher",
+      "startDate": "2020",
+      "endDate": "2023",
+      "summary": "Advised the development of a DEI and Justice Doctoral Fellowship. Conducted research to enhance the experiences of all students in higher education institutions. Designed and implemented data collection methods, including surveys, interviews, and focus groups. Analyzed and interpreted research findings, providing actionable recommendations. Mentored graduate students in their research projects, resulting in successful publication."
     }
   ],
-  "references": [
+  "leadership": [
     {
-      "name": "Available upon request"
+      "position": "Executive Director",
+      "organization": "Forward Equity Lab",
+      "startDate": "2024",
+      "endDate": "Present",
+      "summary": "Leadership and Vision, Research and Program Development, Operational Management, Client Engagement and Services Delivery"
+    },
+    {
+      "position": "Program Coordinator",
+      "organization": "NSF Research and Traineeship Grant",
+      "startDate": "2023",
+      "endDate": "Present",
+      "summary": "Grant Management, Program Development, Communication and Outreach, Student Support and Development, Evaluation and Assessment, Collaboration and Partnerships, Problem solving and Decision Making, Compliance and Ethics, Professional Development"
+    },
+    {
+      "position": "VP of Academic Affairs",
+      "organization": "Graduate Student Association, Drexel University",
+      "startDate": "2021",
+      "endDate": "Present",
+      "summary": "Strategic Leadership, Intellectual Community Building, Advocacy and Representation"
+    },
+    {
+      "position": "Program Coordinator, Education Administrator",
+      "organization": "HiEmployment, Educational Staffing Support",
+      "startDate": "2017",
+      "endDate": "2023",
+      "summary": "Recruitment, Onboarding and Compliance, Teacher Development, Professional Growth Oversight, Teacher Preparation Expertise, Inclusive Learning Environments"
+    },
+    {
+      "position": "Business Office Manager",
+      "organization": "Commuter Services, University of Hawaii at Manoa",
+      "startDate": "2018",
+      "endDate": "2019"
+    },
+    {
+      "position": "President/CEO",
+      "organization": "Blisstunes Recording Corp.",
+      "startDate": "1998",
+      "endDate": "2017"
     }
-  ]
-}
+  ],
+  "serviceAndOutreach": [
+    {
+      "position": "Mentoring and Coaching (MAC) Program",
+      "organization": "Drexel University School of Education",
+      "startDate": "2023",
+      "endDate": "Present"
+    },
+    {
+      "position": "Board Member",
+      "organization": "Library Advisory Committee, Drexel University",
+      "startDate": "2021",
+      "endDate": "2023"
+    },
+    {
+      "position": "Board Member",
+      "organization": "Faculty Committee for Student life, Drexel University",
+      "startDate": "2021",
+      "endDate": "2023"
+    },
+    {
+      "position": "Chairman",
+      "organization": "Drexel Emerging Graduate Scholars Committee, Drexel University",
+      "startDate": "2021",
+      "endDate": "2023"
+    }
+  ],
+  "publications": [
+    {
+      "title": "Unmasking Barriers, Unleashing Potential: A Phenomenological Study on Academic Advisors' Implementation of Critical Support Systems for Black Male Student Athletes' Academic Success",
+      "date": "2023",
+      "publisher": "Drexel University",
+      "url": ""
+    },
+    {
+      "title": "The Recruit: A Futurist Story about Race and College Admissions",
+      "date": "2020",
+      "publisher": "Educational Perspectives",
+      "url": "https://www.jstor.org/stable/44886371"
+    }
+  ],
+  "presentations": [
+    {
+      "event": "Dr. Penny L. Hammrich Doctoral Student Colloquium",
+      "date": "2024",
+      "location": "Drexel University"
+    },
+    {
+      "
